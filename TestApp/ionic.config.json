@@ -1,5 +1,7 @@
 {
-  "name": "TestApp",
-  "integrations": {},
+  "name": "photo-gallery",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
